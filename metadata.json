@@ -1,0 +1,6 @@
+{
+  "name": "Navod Caldera Portfolio",
+  "description": "Interactive frontend developer portfolio of Navod Caldera featuring a breathtaking neon aesthetic, interactive project filters, services desk, and contact page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
